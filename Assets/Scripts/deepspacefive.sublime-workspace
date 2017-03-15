@@ -1,0 +1,1172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"choice",
+				"choice_selected"
+			],
+			[
+				"Quick",
+				"QuickCrawlOverride"
+			],
+			[
+				"Horizon",
+				"HorizontalOrVerticalLayoutGroupEditor"
+			],
+			[
+				"HorizontalLayout",
+				"HorizontalLayoutGroup.SetLayoutHorizontal()"
+			],
+			[
+				"Resum",
+				"ResumeWaveCurrent"
+			],
+			[
+				"Diffi",
+				"DifficultyMode"
+			],
+			[
+				"DiffMo",
+				"DifficultyMode"
+			],
+			[
+				"find",
+				"find_prev"
+			],
+			[
+				"XP_Req",
+				"XP_RequiredArray"
+			],
+			[
+				"XP_Requi",
+				"XP_Required"
+			],
+			[
+				"Seri",
+				"Serializable"
+			],
+			[
+				"Patrol",
+				"PatrolVelocity"
+			],
+			[
+				"Stone",
+				"StoneformTime_current"
+			],
+			[
+				"Stonefo",
+				"StoneformTime"
+			],
+			[
+				"MEth",
+				"MethType"
+			],
+			[
+				"ONMatch",
+				"OnMatchUpgrade"
+			],
+			[
+				"TurnEf",
+				"Turn_Effects"
+			],
+			[
+				"AudioClip",
+				"AudioClipProperties"
+			],
+			[
+				"clos",
+				"closest_dist"
+			],
+			[
+				"_border",
+				"_Border"
+			],
+			[
+				"Seria",
+				"SerializeField"
+			],
+			[
+				"Instan",
+				"InstantiateTileObj"
+			],
+			[
+				"prefa",
+				"prefabs_per_spec"
+			],
+			[
+				"Meter",
+				"MeterDecay_soft"
+			],
+			[
+				"Mask",
+				"MaskScreen"
+			],
+			[
+				"warden",
+				"warden_actual_health"
+			],
+			[
+				"MeterDea",
+				"MeterDecay_soft"
+			],
+			[
+				"Dest",
+				"DestroyIfWaveEnd"
+			],
+			[
+				"MeterDecay",
+				"MeterDecay"
+			],
+			[
+				"MeterDeca",
+				"MeterDecayInit"
+			],
+			[
+				"Met",
+				"MeterDecayLvl3"
+			],
+			[
+				"MeterDe",
+				"MeterDecayLvl1"
+			],
+			[
+				"Gradien",
+				"GRADIENT"
+			],
+			[
+				"ManaPowerDe",
+				"ManaPowerDecay"
+			],
+			[
+				"Mana",
+				"ManaPowerDecay_soft"
+			],
+			[
+				"ManaPowerDeca",
+				"ManaPowerDecayInc"
+			],
+			[
+				"WaveTile",
+				"WaveTileSpawn"
+			],
+			[
+				"Tick",
+				"TickTime_init"
+			],
+			[
+				"StartGen",
+				"StartGenus_Override_String"
+			],
+			[
+				"Start",
+				"StartGenus_Override_String"
+			],
+			[
+				"Up",
+				"UpgradeChanceTotal"
+			],
+			[
+				"orthogra",
+				"Camera.orthographicSize"
+			],
+			[
+				"_health",
+				"_HealthMax"
+			],
+			[
+				"Damag",
+				"DamageBuff_AttackInc"
+			],
+			[
+				"DamageBuf",
+				"DamageBuff_Duration"
+			],
+			[
+				"Attack",
+				"AttackPipParent"
+			],
+			[
+				"Descrip",
+				"Description"
+			],
+			[
+				"Description",
+				"Description_Tooltip"
+			],
+			[
+				"Hide",
+				"HideInInspector"
+			],
+			[
+				"GENS",
+				"GENUSToResourceString"
+			],
+			[
+				"Tile",
+				"TileEffect"
+			],
+			[
+				"upgrade",
+				"upgrade_extra_turns"
+			],
+			[
+				"upgra",
+				"upgrade_extra_turns"
+			],
+			[
+				"Number",
+				"NumberUpgrade"
+			],
+			[
+				"new",
+				"new_tiles_start"
+			],
+			[
+				"_Genus",
+				"_GenusTypes"
+			],
+			[
+				"all",
+				"alllevelinfo"
+			],
+			[
+				"_defaul",
+				"_defaultCooldown"
+			],
+			[
+				"Ability",
+				"Ability_UpgradeInfo"
+			],
+			[
+				"LoadAsse",
+				"LoadAssets_Routine"
+			],
+			[
+				"Armour",
+				"ArmourReductionRate"
+			],
+			[
+				"Class",
+				"ClassMenu"
+			],
+			[
+				"Reroll",
+				"RerollCost"
+			],
+			[
+				"Cur",
+				"CursorLockMode"
+			],
+			[
+				"prefi",
+				"prefix_value"
+			],
+			[
+				"Upgrade",
+				"UpgradeData"
+			],
+			[
+				"Item",
+				"ItemContainerData"
+			],
+			[
+				"StatData",
+				"StatContainerData"
+			],
+			[
+				"Sprite",
+				"SpriteImpossible"
+			],
+			[
+				"curren",
+				"current_hunds"
+			],
+			[
+				"current_t",
+				"current_tens"
+			],
+			[
+				"CollectMatc",
+				"CollectMatchesRoutine"
+			],
+			[
+				"Match",
+				"MatchContainer"
+			],
+			[
+				"upgr",
+				"upgrade_health"
+			],
+			[
+				"will",
+				"willstack"
+			],
+			[
+				"valu",
+				"valueMultiplier"
+			],
+			[
+				"class",
+				"class_buttons"
+			],
+			[
+				"data",
+				"datapath"
+			],
+			[
+				"Diff",
+				"DiffText"
+			],
+			[
+				"Level",
+				"LevelUpOnEnd"
+			],
+			[
+				"Poin",
+				"PointsPerTurn"
+			],
+			[
+				"POin",
+				"PointsPerEnemy"
+			],
+			[
+				"Spe",
+				"Species"
+			],
+			[
+				"SetCoun",
+				"SetCounterText"
+			],
+			[
+				"Res",
+				"ResMultiplier"
+			],
+			[
+				"fill",
+				"fillrate_timer_init"
+			],
+			[
+				"int",
+				"init_buytick"
+			],
+			[
+				"_defu",
+				"_defaultCooldown"
+			],
+			[
+				"All",
+				"AllColourMulti"
+			],
+			[
+				"Repla",
+				"ReplaceItem"
+			],
+			[
+				"MAX",
+				"MAX_UPGRADES"
+			],
+			[
+				"Purch",
+				"PurchaseName"
+			],
+			[
+				"Purchas",
+				"PurchaseSkills"
+			],
+			[
+				"Swipe",
+				"SwipeDir"
+			],
+			[
+				"Bonus",
+				"BonusParent"
+			],
+			[
+				"Spawn",
+				"SpawnableTileContainer"
+			],
+			[
+				"OVerFlow",
+				"OverflowThisTurn"
+			],
+			[
+				"OVer",
+				"OverflowThisTurn"
+			],
+			[
+				"health",
+				"healthPerTile"
+			],
+			[
+				"Ite",
+				"ItemNameContainer"
+			],
+			[
+				"heal",
+				"health_divide"
+			],
+			[
+				"MAST",
+				"MasterTimeAud"
+			],
+			[
+				"Add",
+				"addInput"
+			],
+			[
+				"Maste",
+				"MasterTimeAud"
+			],
+			[
+				"ShiftT",
+				"Shift_Type"
+			],
+			[
+				"timer_",
+				"timer_after_match"
+			],
+			[
+				"attac",
+				"attack_match"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "PlayerControl.cs",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "GravityField.cs",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Utility.cs",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Processing B.sublime-build",
+	"command_palette":
+	{
+		"height": 146.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/Tutorial.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/WaveTile.cs",
+		"/A/Projects/deepspacefive/Deep Space Five/Assets/GameManager.cs",
+		"/A/Projects/deepspacefive/Deep Space Five/Assets/DestroyCollider.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/Utility.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/CameraUtility.cs",
+		"/A/Projects/deepspacefive/Deep Space Five/Assets/PlayerControl.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Zone.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Player.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/EffectManager.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Lightning.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UIManager.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Tile.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/ColourSwap.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/ThrowKnives.cs",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIObj.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIObjtk.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/Powerup.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIMenu.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/AudioManager.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/Firestorm.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/GameManager.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/GameData.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Enemies/Mimic.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Enemies/Minion.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Enemies/Blob.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Enemies/Enemy.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/TileMaster.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Flame.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/Heal.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/Lullaby.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/_GameSaveLoad.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Cross.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Advanced Save System/Scripts/Save Variables/AdvancedSaveSystem.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Advanced Save System/Scripts/ExampleScripts/ASS_MoveObject.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Enemies/Grunt.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Enemies/Guard.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/WardenIntro.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIKillScreen.cs",
+		"/C/Users/MaxerJ/AppData/LocalLow/DefaultCompany/Matchima!/PlayerData.xml",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/MiniAlertUI.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Classes/Warden.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Scumworks.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/TileTypes.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Stat.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Editor/ObjectPoolerReferenceEditor.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Editor/StatEditor.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/Spawning.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/GiantTerrorsWave.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Bomb.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/WardenBattle.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Force.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Class.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/StoryModeZone_A.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Items/ModContainer.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIObjTweener.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Neutral/ItemTile.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/Velocitizer.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/Slash.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Abilities/Actives/SlashOld.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/Maturation.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIClassButton.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIGear.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/StoryModeZone_A_Wave1.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Chicken.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Arcane.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/WaveTileEndOnTileDestroy.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/WaveEffect.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Classes/Farmer.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Classes/Wizard.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIAbilityButton.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/Charm.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/WaveGroup.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/Roaming.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Powerups/CreateBombs.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/Juice.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIObjects.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Mana.cs",
+		"/A/Projects/matchima/Matchima!/Assets/TextMesh Pro/Scripts/TextMeshProUGUI.cs",
+		"/A/Projects/matchima/Matchima!/Assets/UITween/Editor/EditorUITween.cs",
+		"/A/Projects/matchima/Matchima!/Assets/UITween/Scripts/EasyTween.cs",
+		"/A/Projects/matchima/Matchima!/Assets/UITween/Scripts/UITween.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Unit.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/StoryModeZone_Init.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UIClassSelect.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Ability.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/ObjectPooler.cs",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/BufferScroll-st3/readme.md",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/BufferScroll-st3/BufferScroll.py",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/User/BufferScroll.sublime-settings",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/MaxerJ/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Abilities/Actives/Enchant.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/UI/UILevelUp.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Utilities/MoveToPoint.cs",
+		"/A/Projects/matchima/Matchima!/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimator.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/PlayerControl.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Abilities/Passives/Backstab.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Classes/Bard.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Classes/Thief.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Classes/Barbarian.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/Stoneform.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/WaveUnit.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/Sleep.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/Status.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Status/TileEffect.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Tiles/Spells/Harp.cs",
+		"/A/Projects/matchima/Matchima!/Assets/TK2DROOT/tk2d/Code/Sprites/tk2dBaseSprite.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Units/Wave/WardenWaveUnit.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Item.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/IsometriumCamera.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/IsometriumMovement.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/Data/Private/SelectionBox/UnityEngine.UI.Extensions NameSpace/IsometriumSelections.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/Data/Private/Scripts/IsometriumMousePoint.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/IsometriumClickableObject.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/Data/Private/Scripts/IsometriumManager.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/IsometriumSelectableObject.cs",
+		"/D/Projects/Pending/The Compound/Assets/Scripts/GameManager.cs",
+		"/A/Projects/diablolike/diablolike/Assets/ISOMETRIUM/Data/Private/Scripts/TargetPoint.cs",
+		"/A/Projects/matchima/.gitignore",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Slot.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Scripts/Slots/Items/Potion.cs",
+		"/A/Projects/matchima/Matchima!/Assets/Editor/EnumFlagsAttributeDrawer.cs"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"A:\\Projects\\deepspacefive\\Deep Space Five\\Assets",
+			"A:\\Projects\\matchima\\Matchima!\\Assets\\Scripts\\",
+			"/Users/Matt/Desktop/matchima/Matchima!/Assets/Scripts",
+			"A:\\Projects\\matchima\\Matchima!\\Assets\\Scripts",
+			"C:\\Program Files (x86)\\R.G. Mechanics\\Freelancer\\DATA",
+			"C:\\Program Files (x86)\\R.G. Mechanics\\Freelancer\\DLLS",
+			"C:\\Program Files (x86)\\R.G. Mechanics\\Freelancer",
+			"C:\\Program Files (x86)\\R.G. Mechanics\\Freelancer\\EXE",
+			"A:\\Projects\\matchima\\Matchima!\\Assets\\Scripts",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\Scripts",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\TextMesh Pro",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\Scripts",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\Scripts\\Classes\\Abilities",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\Scripts\\",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\Scripts\\Tiles",
+			"C:\\Users\\MaxerJ\\Desktop\\Matchima!\\Assets\\Scripts",
+			"D:\\Projects\\Pending\\Matchima!\\Assets\\Scripts",
+			"D:\\Projects\\SSRPG-editor\\SuperSaganRPG\\Assets\\Scripts",
+			"D:\\Projects\\Pending\\Matchima!\\Assets\\Scripts",
+			"D:\\Projects\\Matchima!\\Assets\\Scripts",
+			"D:\\Projects\\MidiControllerTest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TurnRoutine",
+			"gravity_y",
+			"gravity_x",
+			"gravity_y",
+			"gravity_x",
+			"MaxSpeed",
+			"private",
+			"ChargePower",
+			"Power",
+			"Charge",
+			"Power",
+			"Charge",
+			"ChargeProps",
+			"ChargePower",
+			"Charge",
+			"controlspeed_max",
+			"gravityspeed_max",
+			"controlspeed",
+			"gravity_vel",
+			"control_vel",
+			"controly",
+			"controlx",
+			"gravityspeed_max",
+			"gravityspeed",
+			"gravity_y",
+			"gravity_x",
+			"gravity_vel",
+			"controlspeed_max",
+			"controlspeed",
+			"control_vel",
+			"controly",
+			"controlx",
+			"Gravity",
+			"Charge",
+			"Properties",
+			"FuelDecay",
+			"Fuel",
+			"GravityProps",
+			"FarRadius",
+			"1",
+			"x",
+			"planet",
+			"num",
+			"g",
+			"Field",
+			"Vector2",
+			"GravityAccelerationVector",
+			"p",
+			"pN",
+			"Gravity.dT",
+			"Vector3",
+			"p",
+			"var p",
+			"planets",
+			"PushPlanets",
+			"var",
+			"Vector2",
+			"y",
+			"vel",
+			"pos",
+			"print",
+			"enabled",
+			"prev_state",
+			"..",
+			"(Zone) Instantiate",
+			"PlayMusic",
+			"TopGear as UIObjTweener",
+			"ects.TopGear as UIObjTweener)",
+			"jects.TopGear as UIObjTweener)",
+			"SetLoadScreen",
+			"UIObjTweener",
+			"TopGear as UIObjTw",
+			"BotGear",
+			".BotGear as UIObjTweener).SetTwe",
+			".Objects.BotGear as UIObjTweener).SetTween",
+			"UIManager.Objects.BotGear",
+			"anager.Objects.TopGear as UIObjTweene",
+			"IManager.Objects.TopGear as UIObjTweene",
+			"UIManager.Objects.TopGear as UIObjTweener",
+			"GameObject",
+			"Zones",
+			"PlayAudio",
+			"numToRound",
+			"Attack",
+			"final",
+			"choices",
+			"i",
+			"spec",
+			"isRotating",
+			"speed",
+			"UIObj",
+			"i",
+			"curr",
+			"3",
+			"SetSprite",
+			"]\n",
+			"Choices",
+			"sprite",
+			"Imgtk",
+			"Atlas",
+			"GENUS []",
+			"3",
+			"4",
+			"Level",
+			"Down",
+			"obj",
+			"AddXP(",
+			"Save()",
+			"Load()",
+			"Load",
+			"Save",
+			"/",
+			"Save",
+			"\\\\",
+			"AddXP",
+			"MiddleGear[3]",
+			"MiniAlert(",
+			"Load(",
+			"Load",
+			"Enemies",
+			"1",
+			"0",
+			"0]",
+			"RankUpAttack",
+			"RankUpHealth",
+			"*=",
+			"Attack",
+			"Health"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ShowPlayerLvl",
+			"UpdatePlayerLvl",
+			"UIManager.ClassButtons.GetClass(Parent.Index)",
+			"AfterTurn",
+			"GENUS.OMG",
+			"TileMaster.Tiles",
+			"protected override void Setup()",
+			"Description_Simple",
+			"Player.Classes",
+			"InitStats",
+			"return new StCon[]{new StCon(",
+			"return new StCon[]",
+			"public override StCon [] Description",
+			"EffectManager.instance.PlayEffect",
+			"Shift",
+			"IsGenus",
+			"SPECIES type = child.Type;",
+			"Type.isEnemy",
+			"ModStats",
+			"AddStatMod",
+			"Type.isEnemy",
+			"Genus",
+			"GENUS.ALL",
+			"GENUS.GRY",
+			"GENUS.PRP",
+			"GENUS.NONE",
+			"GENUS",
+			"new_part.GetComponent<ParticleSystem>().startColor = GameData.instance.GetModColour(child.Genus);",
+			"GameData.instance.GetModColour(GENUS.PRP",
+			"child.Info.isEnemy",
+			"(int)child.Info.Genus",
+			"PlayerControl.matchingTile != null",
+			"PlayerControl.matchingTile",
+			"Spawner2.",
+			"child.Spec.",
+			"child.Spec",
+			"(int)child.Genus",
+			"IsType(",
+			"Spec.IsType(",
+			"override IEnumerator AfterTurnRoutine()",
+			"override IEnumerator AfterTurn()",
+			"bool UPGRADEOLD2()",
+			"public string OLDUPGRADE",
+			".Stats.isNew",
+			"Stats.isNew",
+			"Stats.Hits",
+			"Random.value",
+			".Stats.Value",
+			"TileMaster.Types",
+			"Mod"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PlayerControl.cs",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 893.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "GravityField.cs",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Utility.cs",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2096.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tile",
+				"Tiles/Tile.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}
